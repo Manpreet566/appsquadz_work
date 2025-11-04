@@ -1,5 +1,5 @@
 --insert into pb_mlm_aod
-with  
+--with  
 mlm as ( 
 select 
 distinct media_title , -- split(media_title,'/')[1] as c_id,   
